@@ -1,0 +1,50 @@
+
+
+<resources>
+    <string name="app_name" translatable="false">EduSolve</string>
+    <string name="theme">Theme</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="settings">Settings</string>
+    <string name="back">Back</string>
+    <string name="dynamic_theme_notice">On Android 12+ your app theme colors are based on your home screen background</string>
+    <string name="apiModel">Dataset Model</string>
+    <string name="chat_input">Chat</string>
+    <string name="clear">Clear</string>
+    <string name="send">Send</string>
+    <string name="new_chat">New Chat</string>
+    <string name="model_not_supported">Selected model is not supported for current option.</string>
+    <string name="suggested_model_for_chat">It\’s better to use these models for chat:</string>
+    <string name="change_it_to_default">Change to default</string>
+    <string name="no_internet_connection">There\’s no internet connection.</string>
+    <string name="text_copied">Text copied.</string>
+    <string name="language">Language</string>
+    <string name="chat_history">Chat History</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete_confirm">Are you sure you want to delete this item?</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="history_title">History Title</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="chat_with_me">Chat with me</string>
+    <string name="image_generation">Image Generation</string>
+    <string name="about_text">-</string>
+    <string name="image_input_placeholder">Enter your desired image description.</string>
+    <string name="empty_list">Nothing found.</string>
+    <string name="ai_failed_answering">Ai failed to answer in a reasonable time.</string>
+    <string name="make_images_with_me">Make images</string>
+    <string name="dalle">This feature is currently disabled.</string>
+    <string name="ai_was_cancelled">Ai\’s answering was cancelled by user</string>
+    <string name="ai_rate_limited">Server busy, please try again a minute later.</string>
+    <string name="locally_rate_limited">You are rate limited, Try again an hour later.</string>
+    <string name="license_header">EuSolve</string>
+    <string name="github_source" translatable="false">Developed By Gokul Deore</string>
+    <string name="about_app" translatable="false">This is a interactive chatbot developed for student of age 5 to 14 for which act as their friend</string>
+</resources>

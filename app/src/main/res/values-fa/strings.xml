@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="theme">थीम</string>
+    <string name="theme_system">सिस्टम डीफॉल्ट</string>
+    <string name="theme_light">उजळ</string>
+    <string name="theme_dark">गडद</string>
+    <string name="settings">सेटिंग्ज</string>
+    <string name="back">मागे</string>
+    <string name="dynamic_theme_notice">Android 12 आणि त्यापुढील आवृत्त्यांमध्ये, अ‍ॅपची थीम तुमच्या डिव्हाईसच्या वॉलपेपरमधील हायलाइट रंगावर आधारित निवडली जाईल</string>
+    <string name="apiModel">डेटा मॉडेल</string>
+    <string name="chat_input">चॅट</string>
+    <string name="clear">क्लिअर करा</string>
+    <string name="send">पाठवा</string>
+    <string name="new_chat">नवीन चॅट</string>
+    <string name="model_not_supported">हे डेटा मॉडेल समर्थित नाही.</string>
+    <string name="suggested_model_for_chat">या डेटासेटपैकी निवडणे योग्य ठरेल:</string>
+    <string name="change_it_to_default">डीफॉल्टवर परत या</string>
+    <string name="no_internet_connection">इंटरनेट कनेक्शन उपलब्ध नाही.</string>
+    <string name="text_copied">टेक्स्ट कॉपी केले.</string>
+    <string name="language">भाषा</string>
+    <string name="chat_history">चॅट इतिहास</string>
+    <string name="title">शीर्षक</string>
+    <string name="date">तारीख</string>
+    <string name="edit">संपादन</string>
+    <string name="delete">हटवा</string>
+    <string name="yes">होय</string>
+    <string name="no">नाही</string>
+    <string name="delete_confirm">आपण हे हटवू इच्छिता?</string>
+    <string name="accept">स्वीकारा</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="history_title">इतिहासाचे शीर्षक</string>
+    <string name="home">मुखपृष्ठ</string>
+    <string name="about">बद्दल</string>
+    <string name="chat_with_me">माझ्याशी गप्पा मारा</string>
+    <string name="image_generation">प्रतिमा तयार करा</string>
+    <string name="about_text">-</string>
+    <string name="image_input_placeholder">आपल्या इच्छित प्रतिमेचे वर्णन इंग्रजीत लिहा.</string>
+    <string name="empty_list">काहीही सापडले नाही.</string>
+    <string name="ai_failed_answering">एआय ने वेळेत उत्तर देण्यात अपयश आले.</string>
+    <string name="make_images_with_me">माझ्यासोबत प्रतिमा बनवा</string>
+    <string name="dalle">हे फिचर सध्या अ‍ॅक्टिव्ह नाही.</string>
+    <string name="ai_was_cancelled">यूजरने एआय प्रतिसाद रद्द केला</string>
+    <string name="ai_rate_limited">सर्व्हर व्यस्त आहे, कृपया काही मिनिटांनी पुन्हा प्रयत्न करा.</string>
+    <string name="locally_rate_limited">सध्या मर्यादा ओलांडली आहे, कृपया तासाभराने प्रयत्न करा.</string>
+</resources>
